@@ -17,5 +17,5 @@
 </script>
 
 <style>
-	 @import url("assets/style/globaal.css");
+	 @import url("style/globaal.css");
 </style>
